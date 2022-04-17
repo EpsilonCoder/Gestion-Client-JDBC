@@ -15,3 +15,10 @@ La technologie JDBC (Java DataBase Connectivity) est une API fournie avec Java (
 ## Démonstration de l application de gestion client avec jdbc
 
 <img src="https://github.com/EpsilonCoder/Gestion-Client-JDBC/blob/master/cheikh.gif?raw=true" width="100%" />
+<pre>
+███████╗██████╗ ███████╗██╗██╗      ██████╗ ███╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗██████╗ 
+██╔════╝██╔══██╗██╔════╝██║██║     ██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+█████╗  ██████╔╝███████╗██║██║     ██║   ██║██╔██╗ ██║██║     ██║   ██║██║  ██║█████╗  ██████╔╝
+██╔══╝  ██╔═══╝ ╚════██║██║██║     ██║   ██║██║╚██╗██║██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗
+███████╗██║     ███████║██║███████╗╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝██████╔╝███████╗██║  ██
+</pre>
