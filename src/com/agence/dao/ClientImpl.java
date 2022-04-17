@@ -19,7 +19,7 @@ public class ClientImpl {
 				PreparedStatement preparedStatement = connection.prepareStatement(IClient.InsererClientQuery());) {
 
 			preparedStatement.setString(1, client.getPrenom());
-			preparedStatement.setString(2, client.getPrenom());
+			preparedStatement.setString(2, client.getNom());
 			preparedStatement.setString(3, client.getTel());
 
 			int row = preparedStatement.executeUpdate();
